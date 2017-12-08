@@ -2,12 +2,12 @@
 {
     "type": "package",
     "package": {
-        "name": "salipro4ever/fuelphp-massage", //give package name to anything, must be unique
+        "name": "salipro4ever/fuelphp-massage",
         "version": "1.0",
         "source": {
-            "url": "https://github.com/salipro4ever/fuelphp-massage.git", //git url
+            "url": "https://github.com/salipro4ever/fuelphp-massage.git",
             "type": "git",
-            "reference": "master" //git branch-name
+            "reference": "master"
         }
     }
 }],
