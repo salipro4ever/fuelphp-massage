@@ -1,0 +1,16 @@
+"repositories": [
+{
+    "type": "package",
+    "package": {
+        "name": "salipro4ever/fuelphp-massage", //give package name to anything, must be unique
+        "version": "1.0",
+        "source": {
+            "url": "https://github.com/salipro4ever/fuelphp-massage.git", //git url
+            "type": "git",
+            "reference": "master" //git branch-name
+        }
+    }
+}],
+"require" : {
+  "salipro4ever/fuelphp-massage": "1.0"
+}
