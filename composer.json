@@ -1,18 +1,16 @@
 {
-    "repositories": [
-{
-    "type": "package",
-    "package": {
-        "name": "salipro4ever/fuelphp-massage",
-        "version": "1.0",
-        "source": {
-            "url": "https://github.com/salipro4ever/fuelphp-massage.git",
-            "type": "git",
-            "reference": "master"
-        }
-    }
-}],
-"require" : {
-  "salipro4ever/fuelphp-massage": "1.0"
-}
+	"name": "salipro4ever/fuelphp-massage",
+	"description" : "FuelPHP 1.x Message Package",
+	"type": "fuel-package",
+	"homepage": "https://github.com/salipro4ever/fuelphp-massage",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "FuelPHP Development Team",
+			"email": "sangph@suga.vn"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
 }
